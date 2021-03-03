@@ -1,0 +1,5 @@
+.post-list{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+  }

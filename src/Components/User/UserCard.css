@@ -1,0 +1,22 @@
+.user-card{
+    width: 70%;
+    margin: 15px auto;
+    padding: 30px;
+    box-shadow: 0px 0px 5px 0px grey;
+    border-radius: 1000px;
+    background: grey;
+  }
+  .user-card img{
+    width: 20%;
+  }
+  .user-card h1, .user-card h2, .user-card p{
+    color: white;
+  }
+  .user-card a{
+    text-decoration: none;
+    background: #28608f;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+  }
